@@ -1,0 +1,24 @@
+[project]
+authors = [
+    {name = "atloo1", email = "15357562+atloo1@users.noreply.github.com"},
+]
+dependencies = []
+description = "test copier change propagation"
+license = "MIT"
+name = "test-copier-propagation"
+readme = "README.md"
+requires-python = ">=3.10"
+version = "0.1.0"
+
+[tool.ruff]
+line-length = 120
+lint.extend-select = ["I"]  # sort imports
+
+[tool.ruff.format]
+quote-style = "single"
+
+[dependency-groups]
+dev = [
+    "pre-commit>=4.3.0",
+    "pytest>=8.4.2",
+]

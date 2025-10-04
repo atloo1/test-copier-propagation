@@ -1,0 +1,14 @@
+# changes here will be overwritten by Copier; NEVER EDIT MANUALLY
+_commit: 9e3f948
+_src_path: try-copier-uv/
+author_email: 15357562+atloo1@users.noreply.github.com
+author_name: atloo1
+containerize: true
+github_actions: true
+license: MIT
+project_description: test copier change propagation
+project_name_kebab_case: test-copier-propagation
+project_python_min_version: '3.10'
+project_version: 0.1.0
+renovate: true
+testing: true
