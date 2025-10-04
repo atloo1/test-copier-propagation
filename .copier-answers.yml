@@ -1,6 +1,6 @@
 # changes here will be overwritten by Copier; NEVER EDIT MANUALLY
 _commit: 9e3f948
-_src_path: try-copier-uv/
+_src_path: https://github.com/atloo1/try-copier-uv
 author_email: 15357562+atloo1@users.noreply.github.com
 author_name: atloo1
 containerize: true
